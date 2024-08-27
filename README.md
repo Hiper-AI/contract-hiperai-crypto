@@ -41,6 +41,6 @@ Telegram: https://t.me/hiperai_crypto
 ## License
 This project is licensed under the Business License - see the LICENSE file for details.
 
-##Contact
+## Contact
 For any inquiries, please contact us at crypto@hiperai.com or visit https://crypto.hiperai.com
 
