@@ -1,9 +1,9 @@
 # Hiper AI Token Contract
 
-### This repository contains the smart contract for the HiperAI Token, deployed on the Polygon (Matic) network. The token is designed to facilitate transactions within the HiperAI ecosystem, providing a secure and scalable solution for users.
+### This repository contains the smart contract for the Hiper AI Token, deployed on the Polygon (Matic) network. The token is designed to facilitate transactions within the Hiper AI ecosystem, providing a secure and scalable solution for users.
 
 ## Overview
-Hiper AI Token (HIPERAI) is a cryptocurrency built on the Polygon blockchain. It powers various applications and services within the HiperAI platform, enabling seamless transactions and interactions between users.
+Hiper AI Token (HIPERAI) is a cryptocurrency built on the Polygon blockchain. It powers various applications and services within the Hiper AI platform, enabling seamless transactions and interactions between users.
 
 #### Whitepaper: https://crypto.hiperai.com/wp-content/uploads/2024/08/HIPERAI-White-Paper-English.pdf
 
@@ -20,18 +20,18 @@ Fixed Supply: A total supply of 6.02x10^23 HIPERAI tokens.
 Use Cases: Can be used for payments, staking, and other interactions within the Hiper AI ecosystem.
 
 ## Tokenomics
-Initial Market Allocation: 602,000,000,000,000,000,000,000 HAI tokens.
+Initial Market Allocation: 602,000,000,000,000,000,000,000 HIPERAI tokens.
 Price: $0.0153945 WMATIC
 Soft Cap: $10,000,000
 Distribution Date: Immediate from 26/08/2024
 
 ## How to Use
-To interact with the HiperAI Token, you can use any Polygon-compatible wallet like MetaMask.
+To interact with the Hiper AI Token, you can use any Polygon-compatible wallet like MetaMask.
 
 ## Steps:
 Add the Polygon network to your wallet.
-Add the HiperAI Token using the contract address: 0x71FF408aC4570a534e6FE69cfA9420Bf340AeaD0
-Start transacting with HAI on decentralized exchanges like Uniswap.
+Add the Hiper AI Token using the contract address: 0x71FF408aC4570a534e6FE69cfA9420Bf340AeaD0
+Start transacting with HIPERAI on decentralized exchanges like Uniswap.
 
 ## Social Media:
 Instagram: https://www.instagram.com/hiperai.crypto/
