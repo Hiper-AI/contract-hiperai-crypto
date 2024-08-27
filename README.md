@@ -5,6 +5,9 @@ This repository contains the smart contract for the HiperAI Token, deployed on t
 Overview
 Hiper AI Token (HIPERAI) is a cryptocurrency built on the Polygon blockchain. It powers various applications and services within the HiperAI platform, enabling seamless transactions and interactions between users.
 
+Whitepaper: https://crypto.hiperai.com/wp-content/uploads/2024/08/HIPERAI-White-Paper-English.pdf
+
+
 Token Name: Hiper AI
 Symbol: HIPERAI
 Network: Polygon (Matic)
@@ -30,8 +33,15 @@ Add the Polygon network to your wallet.
 Add the HiperAI Token using the contract address: 0x71FF408aC4570a534e6FE69cfA9420Bf340AeaD0
 Start transacting with HAI on decentralized exchanges like Uniswap.
 
+Social Media:
+Instagram: https://www.instagram.com/hiperai.crypto/
+X: https://x.com/HiperAICrypto
+Telegram: https://t.me/hiperai_crypto
+
 License
 This project is licensed under the Business License - see the LICENSE file for details.
 
 Contact
 For any inquiries, please contact us at crypto@hiperai.com or visiting https://crypto.hiperai.com
+
+Social Media:
