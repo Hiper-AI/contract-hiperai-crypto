@@ -1,4 +1,4 @@
-# HiperAI Token Contract
+# Hiper AI Token Contract
 
 ### This repository contains the smart contract for the HiperAI Token, deployed on the Polygon (Matic) network. The token is designed to facilitate transactions within the HiperAI ecosystem, providing a secure and scalable solution for users.
 
@@ -41,7 +41,6 @@ Telegram: https://t.me/hiperai_crypto
 ## License
 This project is licensed under the Business License - see the LICENSE file for details.
 
-Contact
-For any inquiries, please contact us at crypto@hiperai.com or visiting https://crypto.hiperai.com
+##Contact
+For any inquiries, please contact us at crypto@hiperai.com or visit https://crypto.hiperai.com
 
-Social Media:
